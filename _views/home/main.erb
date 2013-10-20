@@ -1,0 +1,55 @@
+<%
+require 'date'
+begin
+    events = resource["events"].sort_by { |start_time| }
+    nextevent = events[0]
+rescue
+    nextevent = { :id => 0, :name => "No upcoming events",  :description => "Check back soon"}
+end
+%>
+
+<!-- Three columns of text below the carousel -->
+<div class="row">
+    <div class="span4"><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb"><img class="img-circle" src="images/home/nant-y-cwm-badge.png" /></a>
+        <h2><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">Next Event</a></h2>
+        <p><strong><%=nextevent["name"]%></strong> : <%=nextevent["description"]%></p>
+        <p><%= Date.parse(nextevent["start_time"]).strftime("%d/%m/%Y") %></p>
+        <p><a class="btn" href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">View details &raquo;</a></p>
+    </div>
+    <!-- /.span4 -->
+    <div class="span4"><a href="https://www.facebook.com/NantyCwm.School" target="_blank"><img class="img-circle" src="images/home/facebook-badge.png" /></a>
+        <h2><a href="https://www.facebook.com/NantyCwm.School" target="_blank">Facebook</a></h2>
+        <p>Follow us on facebook for our most recent photos, stories, interesting links, etc.</p>
+        <p><a class="btn" href="https://www.facebook.com/NantyCwm.School" target="_blank">Open Page &raquo;</a></p>
+    </div>
+    <!-- /.span4 -->
+    <div class="span4"><a class="sendmail" href="http://cprobert.wufoo.com/forms/nanyycwm/"><img class="img-circle" src="images/home/email-badge.png" /></a>
+        <h2><a class="sendmail" href="http://cprobert.wufoo.com/forms/nanyycwm/">Contact Us</a></h2>
+        <p>If you are interested in a Steiner education for your child, would like more information about anything that you have read, or you are interested in coming for a visit, we would love to hear from you!</p>
+        <p><a class="btn sendmail" href="http://cprobert.wufoo.com/forms/nanyycwm/">Contact Us &raquo;</a></p>
+    </div>
+</div>
+<!-- /.row -->
+
+<!-- Start THE FEATURETTES -->
+<hr class="featurette-divider" />
+<div class="featurette">
+    <h2 class="featurette-heading">Term Dates</h2>
+
+    <p>
+        <strong>Summer Term:</strong> Monday 15th April – Wednesday 10th July 2013
+    </p>
+     
+    <p>
+        <strong>Half Term:</strong> Monday 27th – Friday 31st May 2013
+    </p>
+     
+    <p>Inset days: </p>
+    <ul>
+        <li>Friday 3rd May 2013</li>
+        <li>Monday 24th June 2013</li>
+    </ul>
+
+</div>
+
+<hr class="featurette-divider" />
