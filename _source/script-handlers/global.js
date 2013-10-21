@@ -11,6 +11,13 @@ $(function() {
         });
     }, 500);
 
+
+    $(".iframe-defer").each(function(){
+        var $this = $(this);
+        var src = $this.attr("data-src");
+        $this.attr("src", src);
+    });
+
     // $(".sendmail").fancybox({
     //     'transitionIn'    : 'fade',
     //     'transitionOut'   : 'fade',
