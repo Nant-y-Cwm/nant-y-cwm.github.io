@@ -18,7 +18,7 @@ begin
 	if $watch
     	puts "Skiping calendar scrape while in watch mode"
     else
-    	FBEvents.get(group_id, app_id, app_secret, event_view_resource)  && !$cmsmode
+    	FBEvents.get(group_id, app_id, app_secret, event_view_resource)  if !$cmsmode
 	end
 rescue r
     puts "Error getting Facebook events"

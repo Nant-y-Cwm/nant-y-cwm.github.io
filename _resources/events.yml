@@ -1,19 +1,5 @@
 ---
 events:
-- id: '1374281519477137'
-  owner:
-    category: School
-    name: Ysgol Nant-y-Cwm Steiner School
-    id: '124914354200526'
-  name: October Half Term
-  description: Monday 21st October - Friday 1st November
-  start_time: '2013-10-21'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:42:45+0000'
 - id: '655129734543938'
   owner:
     category: School

@@ -1,81 +1,52 @@
 template: _layouts/layout.erb
 bootstrap: _bootstrap.rb
 
-pages:
-- index: 
-    generate: index.html 
-    resource: _resources/events.yml
-    template: _layouts/nant-y-cwm-home.erb
-    title: Nany-y-Cwm School
-    views: 
-        intro: _views/home/intro.erb
-        main: _views/home/main.erb
-- education: 
-    generate: education.html
-    navigation: Education
-    views : 
-        intro: _views/education/intro.md
-        main: _views/education/main.erb
-        subnav: _views/education/subnav.erb
-- admissions: 
-    generate: admissions.html
-    navigation: Admissions
-    views : 
-        intro: _views/admissions/intro.erb
-        main: _views/admissions/main.html
-- admissions-terms: 
-    generate: admissions-terms.html
-    views : 
-        intro: _views/admissions/terms/intro.md
-        main: _views/admissions/terms/main.html
-- community: 
-    generate: community.html
-    navigation: Community
-    resource: _resources/events.yml
-    views: 
-        intro: _views/community/intro.erb
-        main: _views/community/main.erb  
-- about: 
-    generate: about.html
-    navigation: About
-    views: 
-        intro: _views/about/intro.md
-        main: _views/about/main.html
-- contact: 
-    generate: contact.html
-    navigation: Contact
-    views:
-        intro: _views/contact/intro.md
-        main: _views/contact/main.html
+nav:
+- education:
+    text: Education
+    url: education
+- admissions:
+    text: Admissions
+    url: admissions
+- community:
+    text: Community
+    url: community
+- about:
+    text: About
+    url: about
+- contact:
+    text: Contact
+    url: contact
 
 bundles:
 - script:
-    generate: scripts/script.min-v1.0.js
+    generate: ~/scripts/script.min-v1.0.js
     files:
      - _source/script-libs/bootstrap.min.js
      - _source/script-libs/twitter-bootstrap-hover-dropdown.min.js
 #     - _source/script-libs/jquery.fancybox-1.3.4.pack.js
      - _source/script-handlers/global.js
 - jquery:
-    generate: scripts/jquery.min-v1.10.2.js
+    generate: ~/scripts/jquery.min-v1.10.2.js
     files:
      - _source/script-libs/jquery-1.10.2.min.js
 - shiv:
-    generate: scripts/html5shiv-v1.0.js
+    generate: ~/scripts/html5shiv-v1.0.js
     files:
      - _source/script-libs/html5shiv.js
 - style:
-    generate: css/style-v1.0.css
+    generate: ~/css/style-v1.0.css
     files:
       - _source/stylesheets/bootstrap.min.css
       - _source/stylesheets/bootstrap-responsive.min.css
       - _source/stylesheets/jquery.fancybox-1.3.4.css
 - home:
-    generate: css/home-v1.0.css
+    generate: ~/css/home-v1.0.css
     files:
       - _source/stylesheets/home.css
 - layout:
-    generate: css/layout-v1.0.css
+    generate: ~/css/layout-v1.0.css
     files:
       - _source/stylesheets/layout.css
       - _source/stylesheets/layout-custom.css
+      
