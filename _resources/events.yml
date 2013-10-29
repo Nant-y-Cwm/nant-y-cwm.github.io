@@ -78,19 +78,6 @@ events:
     name: Nant-y-Cwm Steiner School
   privacy: OPEN
   updated_time: '2013-10-11T11:51:30+0000'
-- id: '204102876436076'
-  owner:
-    category: School
-    name: Ysgol Nant-y-Cwm Steiner School
-    id: '124914354200526'
-  name: End of Term Festival - Main School
-  start_time: '2013-12-13'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T12:09:47+0000'
 - id: '489093261203765'
   owner:
     category: School

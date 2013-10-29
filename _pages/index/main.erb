@@ -11,7 +11,7 @@ end
 <!-- Three columns of text below the carousel -->
 <div class="row">
     <div class="span4"><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb"><img class="img-circle" src="images/home/nant-y-cwm-badge.png" /></a>
-        <h2><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">Next Event</a></h2>
+      <h2><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">Next Event</a></h2>
         <p><strong><%=nextevent["name"]%></strong> : <%=nextevent["description"]%></p>
         <p><%= Date.parse(nextevent["start_time"]).strftime("%d/%m/%Y") %></p>
         <p><a class="btn" href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">View details &raquo;</a></p>
@@ -34,22 +34,8 @@ end
 <!-- Start THE FEATURETTES -->
 <hr class="featurette-divider" />
 <div class="featurette">
-  <h2 class="featurette-heading">Term Dates:</h2>
-
-    <p>
-        <strong>Summer Term:</strong> Monday 15th April – Wednesday 10th July 2013
-    </p>
-     
-    <p>
-        <strong>Half Term:</strong> Monday 27th – Friday 31st May 2013
-    </p>
-     
-    <p>Inset days: </p>
-    <ul>
-        <li>Friday 3rd May 2013</li>
-        <li>Monday 24th June 2013</li>
-    </ul>
-
+    <%= Scms.renderView("_pages/index/maintext.html", page) %>
+    <%= Scms.renderView("_pages/index/maintext_2.html", page) %>
 </div>
 
 <hr class="featurette-divider" />

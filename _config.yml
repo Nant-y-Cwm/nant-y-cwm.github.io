@@ -4,19 +4,19 @@ bootstrap: _bootstrap.rb
 nav:
 - education:
     text: Education
-    url: education
+    url: education/
 - admissions:
     text: Admissions
-    url: admissions
+    url: admissions/
 - community:
     text: Community
-    url: community
+    url: community/
 - about:
     text: About
-    url: about
+    url: about/
 - contact:
     text: Contact
-    url: contact
+    url: contact/
 
 bundles:
 - script:

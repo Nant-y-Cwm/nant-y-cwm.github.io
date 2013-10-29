@@ -31,8 +31,7 @@ module FBEvents
 					if start_time < Date.today
 						puts "Skiping #{event["name"]} because its in the past"
 					else
-						ScmsUtils.successLog( "#{event["name"]}" )
-						puts "start_time: #{start_time.strftime("%d/%m/%Y")}"	
+						ScmsUtils.successLog( "#{event["name"]} - start_time: #{start_time.strftime("%d/%m/%Y")}" )
 						events_array << FBEvents.get_event(event["id"], access_token)
 					end
 				}	
@@ -55,7 +54,7 @@ module FBEvents
 	
 	def FBEvents.get_events(group_id, accessToken)
         eventsUri = "https://graph.facebook.com/#{group_id}/events?#{accessToken}"
-        puts eventsUri
+        #puts eventsUri
 		eventsUri = URI.encode(eventsUri)
 		events = open(eventsUri, :ssl_verify_mode => OpenSSL::SSL::VERIFY_NONE) {|io| 
 			io.read

@@ -8,8 +8,8 @@
     <meta name="description" content="">
     <meta name="author" content="">
     
-    <link href='<%= page.bundles["style"] %>' rel="stylesheet" />
     <link href='~/fonts/sophia.css' rel="stylesheet" />
+    <link href='<%= page.bundles["style"] %>' rel="stylesheet" />
     <link href='<%= page.bundles["home"] %>' rel="stylesheet" />
 
     <script src='<%= page.bundles["jquery"] %>'></script>
@@ -37,7 +37,7 @@
             <a class="brand" href="/"><img src="images/nant-y-cwm-icon-v1.0.png" height="60" width="60"/> Nant-y-Cwm School</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
-              <%= Scms.parsetemplate(File.read("_layouts/topnav.erb"), page) %>
+              <%= Scms.renderView("_layouts/topnav.erb", page) %>
             </div><!--/.nav-collapse -->
           </div><!-- /.navbar-inner -->
         </div><!-- /.navbar -->
@@ -53,7 +53,7 @@
 
       <!-- FOOTER -->
       <footer>
-        <%= Scms.parsetemplate(File.read("_layouts/footer.erb"), page) %>
+        <%= Scms.renderView("_layouts/footer.erb", page) %>
       </footer>
 
     </div><!-- /.container -->

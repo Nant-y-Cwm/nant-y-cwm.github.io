@@ -1,0 +1,51 @@
+<div class="span3 sidebar" id="subnav">
+	<ul class="nav nav-list sidenav">
+		<li class="active"><a href="#information"><i class="icon-chevron-right"></i> Information</a></li>
+		<li><a href="#faq"><i class="icon-chevron-right"></i> FAQ's</a></li>
+		<li><a href="#finance"><i class="icon-chevron-right"></i> Financial Contribution</a></li>
+		<li><a href="#time"><i class="icon-chevron-right"></i> Time Contribution</a></li>
+		
+	</ul>
+</div>
+
+<div class="span9">
+	<section id="Information">
+		<div class="page-header">
+		 	<h2>Information</h2>
+		</div> 
+		<div class="row-fluid">
+			<div class="span6">
+				<h3>Kindergarten</h3>
+				<%= Scms.renderView("_pages/admissions/info-kindergarten.html", page) %>
+			</div>
+
+			<div class="span6">
+				<h3>Main School</h3>
+				<%= Scms.renderView("_pages/admissions/info-mainschool.html", page) %>
+			</div>
+		</div>
+	</section>
+
+	<section id="faq">
+		<div class="page-header">
+		 	<h2>F.A.Q.s</h2>
+		</div> 
+		<%= Scms.renderView("_pages/admissions/faqs.html", page) %>
+	</section>
+
+	<section id="finance">
+	  	<div class="page-header">
+	  		<h2>Financial Contribution</h2>
+		</div>
+		<%= Scms.renderView("_pages/admissions/contribution-financial.erb", page) %>
+	</section>
+
+	<section id="time">
+		<div class="page-header">
+	  		<h2>Time Contribution</h2>
+	  	</div>
+	  	<%= Scms.renderView("_pages/admissions/contribution-time.html", page) %>
+	</section>
+</div>
+
+
