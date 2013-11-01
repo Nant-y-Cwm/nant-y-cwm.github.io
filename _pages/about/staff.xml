@@ -1,0 +1,70 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="_layouts/boxes.xsl"?>
+<boxes>
+	<box name="John Davis" img="~/images/staff/260/john-davis.jpg">
+		<![CDATA[
+		<p>Class Teacher &nbsp;-John Davis: Steiner Waldorf Teaching Diploma and &nbsp;Bsc Environmental Science.John joined us officially in 2008 but has been involved as a volunteer at the School since his children started at Nant Y Cwm in 2006. Previously John worked as a tutor and project manager from Greenlinks Community Group and as a Countryside Education Warden. His enthusiam for teaching and children led him to take on Class Teaching alongside the Steiner Teacher Training in January 2009, he has now qualified with Steiner Waldorf Teaching Diploma. &nbsp;John also takes Games and modelling classes.</p>
+		]]>
+	</box>
+	<box name="Jane Winters" img="~/holder.js/300x200">
+		<![CDATA[
+		<p>Class Teacher and Handwork - Jane Winters: BSc. (Geography), LWTTS, Jane was born in New Moat a few miles from Nant-y-Cwm. Jane sent her eldest son to the first Kindergarten when the school opened in 1979 and has been a mainstay of the School ever since. &nbsp;A qualified Steiner Teacher, Jane has retired from class teaching and now teaches handwork.</p>
+		]]>
+	</box>
+	<box name="Lucy Infray" img="~/images/staff/260/lucy-infray.jpg">
+		<![CDATA[
+		<p>Class Teacher, French &amp; singing - Lucy Infray: Lucy grew up in France and was educated at a Steiner School there. She moved to Wales in 2005 and began working at Nant-y-Cwm as a Kindergarten Assistant. In 2007 Lucy moved to the Main School to teach and began the part-time Waldorf Teacher Training Course. Lucy is currently our French Teacher and takes lessons with all the classes.</p>
+		]]>
+	</box>
+
+	<box name="Tom Blackwell" img="~/images/staff/260/tom-blackwell.jpg">
+		<![CDATA[
+		<p>Tom tom</p>
+		]]>
+	</box>
+	<box name="Richard Braithwaite" img="~/images/staff/260/richard-braithwaite.JPG">
+		<![CDATA[
+		<p>Music &ndash; Richard Braithwaite</p>
+		]]>
+	</box>
+	<box name="Danni ???" img="~/holder.js/300x200">
+		<![CDATA[
+		<p>Danies house</p>
+		]]>
+	</box>
+
+	<box name="Niki Hurst" img="~/holder.js/300x200">
+		<![CDATA[
+		<p>Kindergarten Assistant - Niki Hurst: Niki has completed an NVQ level 4 in Steiner Early Years Education, and also has BSc Social Sciences; PGCE. Niki joined us as the Kindergarten Assistant in 2007. She is very experienced with children of all ages and has previously worked with learning support groups.</p>
+		]]>
+	</box>
+	<box name="Janet Brackenbury" img="~/images/staff/260/janet-brackenbury.jpg">
+		<![CDATA[
+		<p>Kindergarten - Janet Brackenbury: FdA. Steiner Waldorf Early Childhood Education; BD Hons; &nbsp;PGCE (3-13yrs). &nbsp;Janet worked in State Education for 8 years and was involved in the promotion of extending play based education into Key Stage 1. In 2004 she started The Gower Steiner Waldorf Initiative with a Parent and Child Plus group and ran the Gower Kindergarten in 2006/7. &nbsp;Janet moved with her family to Carmarthenshire in 2007 to access Steiner Education for all their children. Janet comes from East London, she has lived in Wales for over 20 years and has a GCSE in Users Welsh, Defnyddio&rsquo;r Gymreig.</p>
+		]]>
+	</box>
+	<box name="Cree Smith" img="~/images/staff/260/cree-smith.png">
+		<![CDATA[
+		<p>Parent and Child Groups &ndash; Cree Smith: Cree previously ran a parent and child group in Thornbury, Bristol and has worked at St. Christophers with children with learning difficulties. She completed the course &ldquo;Education for a Happy Childhood&rdquo; with Joy de Berker. As well as running and preparing the parent and child group sessions, she enjoys raising her young family and working on their farm.</p>
+		]]>
+	</box>
+
+	<box name="Debs Wasson" img="~/images/staff/260/debs-wasson.jpg">
+		<![CDATA[
+		<p></p>
+		]]>
+	</box>
+
+	
+
+	<box name="Victoria Robinson" img="~/images/staff/260/victoria-robinson.jpg">
+		<![CDATA[
+		<p>Reception/ Administration - &nbsp;Victoria Robinson</p>
+		]]>
+	</box>
+	<box name="Clare ???" img="~/holder.js/300x200">
+		<![CDATA[
+		<p>Financial Administrator</p>
+		]]>
+	</box>
+</boxes>

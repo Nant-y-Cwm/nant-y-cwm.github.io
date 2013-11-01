@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="_layouts/boxes.xsl"?>
+<boxes>
+	<box name="Michaelmas" img="~/images/festivals/260/michaelmas.png">
+		<![CDATA[
+		<p>Michaelmas is the first festival of the school year at the beginning of autumn. Through the legends of St. Michael, conqueror of the dragon, we celebrate courage and strength of will. At Nant-y-cwm we combine this festival with a celebration of thanks for the year's harvest, which culminates in a harvest feast for the whole school.</p>
+		]]>
+	</box>
+	<box name="Martinmas" img="~/images/festivals/260/martinmas.png">
+		<![CDATA[
+		<p>Martinmas is celebrated in November.  The children make and carry their lanterns in a procession, celebrating with songs their bringing of light to the darkness of winter.</p>
+		]]>
+	</box>
+	<box name="The Advent Spiral" img="~/images/festivals/260/spiral.png">
+		<![CDATA[
+		<p>The Advent Spiral at the beginning of advent.  The children walk around the moss spiral to light their candles. It is a festival of quiet reverence, of darkness slowly turning to light.</p>
+		]]>
+	</box>
+
+	<box name="St. Nicholas" img="~/holder.js/260x200">
+		<![CDATA[
+		<p>St. Nicholas visits the children on December 6th, Bringing a gift for each child and a special message to help them on their way through their coming year.</p>
+		]]>
+	</box>
+	<box name="St. David's Day" img="~/images/festivals/260/st-davids.png">
+		<![CDATA[
+		<p>St. David's Day on March 1st is celebrated by all the children who are encouraged to dress in traditional Welsh costume to celebrate the day. We enjoy the story of St. David, sing and dance together.</p>
+		]]>
+	</box>
+	<box name="Easter" img="~/holder.js/260x200">
+		<![CDATA[
+		<p>Easter is the festival celebrating death and resurrection, a process we see all around us in nature at this time of year. The Easter hare brings eggs and hides them for the children in Kindergarten. Classes in the main school will also have a special event such as the blowing and decorating of eggs.</p>
+		]]>
+	</box>
+
+	<box name="May Day" img="~/images/festivals/260/mayday.png">
+		<![CDATA[
+		<p>May Day is celebrated by all the children with Maypole dancing.</p>
+		]]>
+	</box>
+	<box name="Whitsun" img="~/holder.js/260x200">
+		<![CDATA[
+		<p>Whitsun celebrates the descent of the Holy Spirit to the earth, we encourage the children to dress in white for this festival.</p>
+		]]>
+	</box>
+	<box name="St John&rsquo;s midsummer Festival" img="~/images/festivals/260/st-johns.png">
+		<![CDATA[
+		<p>St John's midsummer Festival on June 24th is a festival celebrated with stories, singing and games culminating in the lighting of the St John's fire with flaming torches.</p>
+		]]>
+	</box>
+
+	<box name="End of term Festival" img="~/images/festivals/260/festival.png">
+		<![CDATA[
+		<p>There is an end of term festival at the end of each term at which the children present plays, poems, and songs to parents and friends. This reflects the work of the children and teachers during each term.</p>
+		]]>
+	</box>
+	
+
+</boxes>

@@ -18,14 +18,15 @@ events:
     category: School
     name: Ysgol Nant-y-Cwm Steiner School
     id: '124914354200526'
-  name: Advent Fair
+  name: Christmas Fair
+  description: To book a stall please contact Rachel here.
   start_time: '2013-11-30'
   is_date_only: true
-  location: Clyderwen Village Hall
+  location: Clunderwen Community Hall
   venue:
-    name: Clyderwen Village Hall
+    name: Clunderwen Community Hall
   privacy: OPEN
-  updated_time: '2013-10-11T12:09:17+0000'
+  updated_time: '2013-10-30T09:40:32+0000'
 - id: '520117228067388'
   owner:
     category: School
@@ -78,6 +79,19 @@ events:
     name: Nant-y-Cwm Steiner School
   privacy: OPEN
   updated_time: '2013-10-11T11:51:30+0000'
+- id: '204102876436076'
+  owner:
+    category: School
+    name: Ysgol Nant-y-Cwm Steiner School
+    id: '124914354200526'
+  name: End of Term Festival - Main School
+  start_time: '2013-12-13'
+  is_date_only: true
+  location: Nant-y-Cwm Steiner School
+  venue:
+    name: Nant-y-Cwm Steiner School
+  privacy: OPEN
+  updated_time: '2013-10-11T12:09:47+0000'
 - id: '489093261203765'
   owner:
     category: School

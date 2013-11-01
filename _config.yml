@@ -1,5 +1,6 @@
 template: _layouts/layout.erb
 bootstrap: _bootstrap.rb
+port: 8090
 
 nav:
 - education:
@@ -17,36 +18,3 @@ nav:
 - contact:
     text: Contact
     url: contact/
-
-bundles:
-- script:
-    generate: ~/scripts/script.min-v1.0.js
-    files:
-     - _source/script-libs/bootstrap.min.js
-     - _source/script-libs/twitter-bootstrap-hover-dropdown.min.js
-#     - _source/script-libs/jquery.fancybox-1.3.4.pack.js
-     - _source/script-handlers/global.js
-- jquery:
-    generate: ~/scripts/jquery.min-v1.10.2.js
-    files:
-     - _source/script-libs/jquery-1.10.2.min.js
-- shiv:
-    generate: ~/scripts/html5shiv-v1.0.js
-    files:
-     - _source/script-libs/html5shiv.js
-- style:
-    generate: ~/css/style-v1.0.css
-    files:
-      - _source/stylesheets/bootstrap.min.css
-      - _source/stylesheets/bootstrap-responsive.min.css
-      - _source/stylesheets/jquery.fancybox-1.3.4.css
-- home:
-    generate: ~/css/home-v1.0.css
-    files:
-      - _source/stylesheets/home.css
-- layout:
-    generate: ~/css/layout-v1.0.css
-    files:
-      - _source/stylesheets/layout.css
-      - _source/stylesheets/layout-custom.css
-      

@@ -8,13 +8,13 @@
     <meta name="author" content="">
 
     <link href='/fonts/sophia.css' rel="stylesheet" />
-    <link href='/css/style-v1.0.css' rel="stylesheet" />
-    <link href='/css/layout-v1.0.css' rel="stylesheet" />
+    <link href='/css/bootstrap-v1.1.css' rel="stylesheet" />
+    <link href='/css/layout-v1.1.css' rel="stylesheet" />
 
-    <script src='/scripts/jquery.min-v1.10.2.js'></script>
+    <script src='/scripts/script-libs/jquery-1.10.2.min.js'></script>
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
-      <script src='/scripts/html5shiv-v1.0.js'></script>
+      <script src='/scripts/script-libs/html5shiv.js'></script>
     <![endif]-->
   </head>
   <body data-spy="scroll" data-target="#subnav" data-offset="25">
@@ -89,8 +89,9 @@
 <div class="span3 sidebar" id="subnav">
 	<ul class="nav nav-list sidenav">
 		<li class="active"><a href="#information"><i class="icon-chevron-right"></i> Information</a></li>
-		<li><a href="#easyfundraising"><i class="icon-chevron-right"></i> Easyfundraising</a></li>
 		<li><a href="#calendar"><i class="icon-chevron-right"></i> Calendar</a></li>
+		<li><a href="#newsletters"><i class="icon-chevron-right"></i> News Letters</a></li>
+		<li><a href="#easyfundraising"><i class="icon-chevron-right"></i> Easyfundraising</a></li>
 	</ul>
 </div>
 
@@ -103,7 +104,20 @@
 			<div class="span4">
 				<h2>Friends</h2>
 				<p>The fund-raising team, are always looking for new ideas, but more importantly people who can help carry them out!! If you want to join us, <a class="sendmail" href="http://cprobert.wufoo.com/forms/nanyycwm/">get in touch with V</a> at the office.</p>
-				<p><a class="btn" data-original-title="What we have achieved" href="#" id="acheived2011" title="">Achievements &raquo;</a></p>
+<p><a class="btn" data-original-title="What we have achieved" href="#" id="acheived2011" title="">Achievements &raquo;</a></p>
+
+<script>
+    $(function(){
+        $('#acheived2011').popover({
+            html: true,
+            placement: "right",
+            content: "  <ul><li>jumble sale - 60 + 100</li><li>jumble sale - 45</li><li>car boot sale - 20</li><li>bag to school - 80</li>  <li>plant sale at open day - 65.69</li<li>easyfundrasing</li><li>michaelmas fair</li><li>green fair</li><li>advent fair</li><li>summer fair</li><li>auction of promises</li></ul>"
+        }).click(function(e){
+            e.preventDefault();
+        });
+    });
+</script>
+
 			</div>
 
 			<div class="span4">
@@ -116,25 +130,11 @@
 				<h2>Work Days</h2>
 				<p>Info on work days here</p>
 
+
 				
 			</div>
 		</div>
 	</section>
-
-	<section id="easyfundraising">
-  		<div class="page-header">
-			<h2>Easyfundraising</h2>
-		</div>
-		
-		<p>We have registered with easyfundraising.  It is a website from which you click through to the on-line retailer. The retailer then donates a percentage cost of the order (at no extra cost to the shopper.) Donations range from 0.5% to 20% of the purchase price or some categories give specific cash values.</p>
-
-		<div class="alert alert-success">
-			<h4>It is free to use</h4>
-			 It's a really easy way to raise funds for the school.  Money raised is paid quarterly. Friends, neighbours and family might want to register too- spread the word! There are over 2000 retailers - see if the one you want is there, click through and raise some money for the school!
-		</div>
-
-		<p><a class="btn btn-large btn-success" href="http://www.easyfundraising.org.uk/causes/friendsofnantycwm" target="_blank">Cool Sign-me-up</a></p>
-	</section>	
 
 	<section id="calendar">
   		<div class="page-header">
@@ -158,9 +158,9 @@
 		            </tr>
 		            
 		            <tr>
-		              <td><a href="https://www.facebook.com/events/1385816104989507/" target="fb">Advent Fair</a></td>
+		              <td><a href="https://www.facebook.com/events/1385816104989507/" target="fb">Christmas Fair</a></td>
 		              <td>30/11/2013</td>
-		              <td></td>
+		              <td>To book a stall please contact Rachel here.</td>
 		            </tr>
 		            
 		            <tr>
@@ -184,6 +184,12 @@
 		            <tr>
 		              <td><a href="https://www.facebook.com/events/600286063364282/" target="fb">End of Term Festival - Kindergarten 2</a></td>
 		              <td>12/12/2013</td>
+		              <td></td>
+		            </tr>
+		            
+		            <tr>
+		              <td><a href="https://www.facebook.com/events/204102876436076/" target="fb">End of Term Festival - Main School</a></td>
+		              <td>13/12/2013</td>
 		              <td></td>
 		            </tr>
 		            
@@ -292,19 +298,49 @@
 		      </tbody>
 		 </table>
 	</section>
+
+	<section id="newsletters">
+  		<div class="page-header">
+			<h2>Newsletters</h2>
+		</div>
+		
+		<p>We have started a termly newsletter to allow everyone in the community to know what is going on at Nant-y-Cwm. Please click on the link below to access our latest newsletter:</p>
+
+<table class="table table-striped table-bordered table-hover">
+	<tr>
+		<th>Newsletters</th>
+	</tr>
+	<tr>
+		<td><a href="/downloads/newsletters/Nant-y-Cwm_Autumn_Term_Newsletter_2011.pdf">Nant-y-Cwm Autumn Term Newsletter 2011</a></td>
+	</tr>
+	<tr>
+		<td><a href="/downloads/newsletters/Nant-y-Cwm_Spring_Term_Newsletter_2012.pdf">Nant-y-Cwm Spring Term Newsletter 2012</a></td>
+	</tr>
+	<tr>
+		<td><a href="/downloads/newsletters/Nant-y-Cwm_Summer_Newsletter_2012.pdf">Nant-y-Cwm Summer Newsletter 2012</a></td>
+	</tr>
+</table>
+
+<p>If you would like these emailed to you please <a href="http://www.nant-y-cwm.co.uk/welcome/contact-us/">contac</a>t the office so that you can be added to the list.</p>
+	</section>	
+
+	<section id="easyfundraising">
+  		<div class="page-header">
+			<h2>Easyfundraising</h2>
+		</div>
+		
+		<p>We have registered with easyfundraising. It is a website from which you click through to the on-line retailer. The retailer then donates a percentage cost of the order (at no extra cost to the shopper.) Donations range from 0.5% to 20% of the purchase price or some categories give specific cash values.</p>
+<div class="alert alert-success">
+<h4>It is free to use</h4>
+It&#39;s a really easy way to raise funds for the school. Money raised is paid quarterly. Friends, neighbours and family might want to register too- spread the word! There are over 2000 retailers - see if the one you want is there, click through and raise some money for the school!</div>
+<p>&nbsp;</p>
+
+
+		<p><a class="btn btn-large btn-success" href="http://www.easyfundraising.org.uk/causes/friendsofnantycwm" target="_blank">Cool Sign-me-up</a></p>
+	</section>	
 </div>
 
-<script>
-    $(function(){
-        $('#acheived2011').popover({
-            html: true,
-            placement: "right",
-            content: "  <ul><li>jumble sale - 60 + 100</li><li>jumble sale - 45</li><li>car boot sale - 20</li><li>bag to school - 80</li>  <li>plant sale at open day - 65.69</li<li>easyfundrasing</li><li>michaelmas fair</li><li>green fair</li><li>advent fair</li><li>summer fair</li><li>auction of promises</li></ul>"
-        }).click(function(e){
-            e.preventDefault();
-        });
-    });
-</script>
+
       </div>
     </div>
 
@@ -313,7 +349,7 @@
 	<div class="row-fluid">
 		<div class="span6 text-left">
 			<p>&copy; Nant-y-Cwm 2013</p>
-    		<p class="muted">Published: 29/10/2013</p> 
+    		<p class="muted">Published: 01/11/2013</p> 
 		</div>
 		<div class="span6 text-right">
 			<p><a href="#">Back to top</a></p>
@@ -321,7 +357,8 @@
 	</div>
 </div>
 
-<script src='/scripts/script.min-v1.0.js'></script>
+
+<script src='/scripts/script-v1.1.js'></script>
 <script src="/images/holder.js"></script>
 
 

@@ -1,0 +1,4 @@
+generate: script-v1.1.js
+
+script-libs/bootstrap.min.js
+script-handlers/global.js
