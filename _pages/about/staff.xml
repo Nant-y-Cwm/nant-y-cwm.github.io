@@ -22,7 +22,7 @@
 		<p>Tom tom</p>
 		]]>
 	</box>
-	<box name="Richard Braithwaite" img="~/images/staff/260/richard-braithwaite.JPG">
+	<box name="Richard Braithwaite" img="~/images/staff/260/richard-braithwaite.png">
 		<![CDATA[
 		<p>Music &ndash; Richard Braithwaite</p>
 		]]>
@@ -57,12 +57,12 @@
 
 	
 
-	<box name="Victoria Robinson" img="~/images/staff/260/victoria-robinson.jpg">
+	<box name="Victoria Robinson" img="~/images/staff/260/victoria-robinson.png">
 		<![CDATA[
 		<p>Reception/ Administration - &nbsp;Victoria Robinson</p>
 		]]>
 	</box>
-	<box name="Clare Griffiths" img="~/holder.js/300x200">
+	<box name="Clare Griffiths" img="~/images/staff/260/clare-griffiths.png">
 		<![CDATA[
 		<p>Financial Administrator</p>
 		]]>
