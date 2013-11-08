@@ -1,5 +1,22 @@
 ---
 events:
+- id: '191196307733873'
+  owner:
+    category: School
+    name: Ysgol Nant-y-Cwm Steiner School
+    id: '124914354200526'
+  name: Work Day
+  description: ! 'Workday this Saturday 10am - 4pm, please come along and bring energy,
+    tools, lunch to share and children to play. '
+  start_time: '2013-11-09T10:00:00+0000'
+  end_time: '2013-11-09T16:00:00+0000'
+  timezone: Europe/London
+  is_date_only: false
+  location: Llanycefn, SA66 7QJ Clunderwen
+  venue:
+    name: Llanycefn, SA66 7QJ Clunderwen
+  privacy: OPEN
+  updated_time: '2013-11-08T09:31:25+0000'
 - id: '655129734543938'
   owner:
     category: School

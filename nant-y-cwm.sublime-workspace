@@ -152,43 +152,19 @@
 	"buffers":
 	[
 		{
-			"file": "_pages/education/mainschool.html",
+			"file": "_pages/index/maintext.html",
 			"settings":
 			{
-				"buffer_size": 311,
+				"buffer_size": 896,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "_pages/education/mainschool-lessons.html",
+			"file": "_pages/index/main.erb",
 			"settings":
 			{
-				"buffer_size": 3018,
+				"buffer_size": 2252,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_pages/education/mainschool-curriculum.html",
-			"settings":
-			{
-				"buffer_size": 6560,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_pages/about/staff.xml",
-			"settings":
-			{
-				"buffer_size": 4457,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_pages/index/intro.erb",
-			"settings":
-			{
-				"buffer_size": 1534,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -220,13 +196,17 @@
 	},
 	"file_history":
 	[
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/contact/main.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/mainschool.html",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/mainschool-lessons.html",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/mainschool-curriculum.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/staff.xml",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/intro.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/contribution-financial.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/festivals.xml",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/community/work-days.html",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/contact/main.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_layouts/boxes.xsl",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/css/source/home.css",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/intro.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_layouts/footer.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/scripts/script.bundle",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
@@ -269,7 +249,6 @@
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/faqs.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/festivals.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/history.html",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/mainschool.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/curriculum.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/parent-and-child.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/kindergarten.html",
@@ -344,10 +323,7 @@
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/about/history/main.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/education/parent-and-child/intro.md",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/admissions/faqs/main.html",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/about/breadcrumb.erb",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/education/kindergarten/intro.md",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/education/breadcrumb.erb",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/education/intro.html"
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/about/breadcrumb.erb"
 	],
 	"find":
 	{
@@ -355,7 +331,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 102.0,
 		"where_history":
 		[
 			"C:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk",
@@ -591,23 +567,23 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_pages/education/mainschool.html",
+					"file": "_pages/index/maintext.html",
 					"settings":
 					{
-						"buffer_size": 311,
+						"buffer_size": 896,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								42,
-								42
+								325,
+								325
 							]
 						],
 						"settings":
@@ -701,7 +677,8 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
+							"syntax": "Packages/AngularJS/AngularJS.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -711,364 +688,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "_pages/education/mainschool-lessons.html",
+					"file": "_pages/index/main.erb",
 					"settings":
 					{
-						"buffer_size": 3018,
+						"buffer_size": 2252,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2502,
-								2502
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_pages/education/mainschool-curriculum.html",
-					"settings":
-					{
-						"buffer_size": 6560,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1127,
-								1127
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/AngularJS/AngularJS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_pages/about/staff.xml",
-					"settings":
-					{
-						"buffer_size": 4457,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1833,
-								1833
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 396.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "_pages/index/intro.erb",
-					"settings":
-					{
-						"buffer_size": 1534,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								179,
-								179
+								1094,
+								1094
 							]
 						],
 						"settings":
@@ -1163,11 +794,11 @@
 							},
 							"sublimelinter_wrap_find": true,
 							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 176.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -1238,7 +869,7 @@
 		[
 			[
 				"",
-				"/C/Code/github/Air-Monkey/air-monkey.sublime-project"
+				"/C/Code/github/s3sync/s3sync.sublime-project"
 			]
 		],
 		"width": 380.0
