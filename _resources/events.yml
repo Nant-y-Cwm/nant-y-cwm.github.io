@@ -1,49 +1,27 @@
 ---
 events:
-- id: '191196307733873'
-  owner:
-    category: School
-    name: Ysgol Nant-y-Cwm Steiner School
-    id: '124914354200526'
-  name: Work Day
-  description: ! 'Workday this Saturday 10am - 4pm, please come along and bring energy,
-    tools, lunch to share and children to play. '
-  start_time: '2013-11-09T10:00:00+0000'
-  end_time: '2013-11-09T16:00:00+0000'
-  timezone: Europe/London
-  is_date_only: false
-  location: Llanycefn, SA66 7QJ Clunderwen
-  venue:
-    name: Llanycefn, SA66 7QJ Clunderwen
-  privacy: OPEN
-  updated_time: '2013-11-08T09:31:25+0000'
-- id: '655129734543938'
-  owner:
-    category: School
-    name: Ysgol Nant-y-Cwm Steiner School
-    id: '124914354200526'
-  name: Martinmas
-  start_time: '2013-11-11'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:47:16+0000'
 - id: '1385816104989507'
   owner:
     category: School
     name: Ysgol Nant-y-Cwm Steiner School
     id: '124914354200526'
   name: Christmas Fair
-  description: To book a stall please contact Rachel here.
+  description: ! 'Bring friends and family to share this wonderful celebration!  Visitors
+    can enjoy Arts and Crafts, Gift Marketplace, Cafe, Music, Puppet Play, Gift Raffle,
+    Story Telling...and much more!
+
+
+    Maybe you''d like to have a stall with us this year?  Please contact us for further
+    details:
+
+    Tel : 01437 563640'
   start_time: '2013-11-30'
   is_date_only: true
   location: Clunderwen Community Hall
   venue:
     name: Clunderwen Community Hall
   privacy: OPEN
-  updated_time: '2013-10-30T09:40:32+0000'
+  updated_time: '2013-11-12T10:22:54+0000'
 - id: '520117228067388'
   owner:
     category: School
