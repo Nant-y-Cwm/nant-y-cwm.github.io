@@ -1,4 +1,4 @@
 generate: index.html 
 resource: _resources/events.yml
 template: _layouts/nant-y-cwm-home.erb
-title: Nany-y-Cwm School
+title: Nant-y-Cwm School
