@@ -152,29 +152,11 @@
 	"buffers":
 	[
 		{
-			"contents": "Searching 107 files for \"nany-y-cwm\"\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\index.html:\n    3    <head>\n    4      <meta charset=\"utf-8\">\n    5:     <title>Nany-y-Cwm School</title>\n    6      \n    7      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    .\n   92    <div class=\"carousel-inner\">\n   93      <div class=\"item active\">\n   94:       <img src=\"/images/carousel/nany-y-cwm-school.png\" alt=\"Carousel\">\n   95        <div class=\"container\">\n   96          <div class=\"carousel-caption\">\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\_pages\\index\\_config.yml:\n    2  resource: _resources/events.yml\n    3  template: _layouts/nant-y-cwm-home.erb\n    4: title: Nany-y-Cwm School\n    5  \n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\_pages\\index\\carousel.erb:\n    3    <div class=\"carousel-inner\">\n    4      <div class=\"item active\">\n    5:       <img src=\"~/images/carousel/nany-y-cwm-school.png\" alt=\"Carousel\">\n    6        <div class=\"container\">\n    7          <div class=\"carousel-caption\">\n\n4 matches across 3 files\n\n\nSearching 107 files for \"Nany-y\"\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\index.html:\n    3    <head>\n    4      <meta charset=\"utf-8\">\n    5:     <title>Nany-y-Cwm School</title>\n    6      \n    7      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\about\\index.html:\n  291  <h3>Debs Wasson</h3>\n  292  		\n  293: 		<p>Debbie Wasson - Family Group Co-ordinator. Debbie joined the Early Years Team and took on holding the Family Group sessions in 2013. She had previous experience of running Family group sessions in Cornwall before moving to Wales with her family, and she enjoyed the Education for Early Childhood course by Joy de Berker. Her 2 girls attend Nany-y Cwm.</p>\n  294  		\n  295  	</div>\n\n2 matches across 2 files\n\n\nSearching 250 files for \"Nany\"\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\_pages\\community\\friends.erb:\n    1: <p>The fund-raising team, are always looking for new ideas, but more importantly people who can help carry them out!! If you want to join us, <a class=\"sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\">get in touch with V</a> at the office.</p>\n    2  <p><a class=\"btn\" data-original-title=\"What we have achieved\" href=\"#\" id=\"acheived2011\" title=\"\">Achievements &raquo;</a></p>\n    3  \n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\_pages\\contact\\intro.md:\n    5  \n    6  \n    7: <a href=\"http://cprobert.wufoo.com/forms/nanyycwm/\" class=\"sendmail btn btn-large btn-primary\">Email Us</a>\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\_pages\\index\\main.erb:\n   27      <!-- /.span4 -->\n   28      \n   29:     <div class=\"span4\"><a class=\"sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\"><img class=\"img-circle\" src=\"~/images/home/email-badge.png\" /></a>\n   30:         <h2><a class=\"sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\">Contact Us</a></h2>\n   31          <p>If you are interested in a Steiner education for your child, would like more information about anything that you have read, or you are interested in coming for a visit, we would love to hear from you!</p>\n   32:         <p><a class=\"btn sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\">Contact Us &raquo;</a></p>\n   33      </div>\n   34  </div>\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\community\\index.html:\n  114  			<div class=\"span4\">\n  115  				<h2>Friends</h2>\n  116: 				<p>The fund-raising team, are always looking for new ideas, but more importantly people who can help carry them out!! If you want to join us, <a class=\"sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\">get in touch with V</a> at the office.</p>\n  117  <p><a class=\"btn\" data-original-title=\"What we have achieved\" href=\"#\" id=\"acheived2011\" title=\"\">Achievements &raquo;</a></p>\n  118  \n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\contact\\index.html:\n   85  <p>If you are interested in a Steiner education for your child, would like more information about anything that you have read, or you are interested in coming for a visit, we would love to hear from you! If our administrator can’t take your call, please leave her a message and someone will contact you.</p>\n   86  \n   87: <p><a class='sendmail btn btn-large btn-primary' href='http://cprobert.wufoo.com/forms/nanyycwm/'>Email Us</a></p>\n   88  \n   89        </div>\n\nC:\\Users\\cprobert\\Dropbox\\Shares\\Nant-y-cwm\\nant-y-cwm.co.uk\\index.html:\n    3    <head>\n    4      <meta charset=\"utf-8\">\n    5:     <title>Nany-y-Cwm School</title>\n    6      \n    7      <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    .\n  143      <!-- /.span4 -->\n  144      \n  145:     <div class=\"span4\"><a class=\"sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\"><img class=\"img-circle\" src=\"/images/home/email-badge.png\" /></a>\n  146:         <h2><a class=\"sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\">Contact Us</a></h2>\n  147          <p>If you are interested in a Steiner education for your child, would like more information about anything that you have read, or you are interested in coming for a visit, we would love to hear from you!</p>\n  148:         <p><a class=\"btn sendmail\" href=\"http://cprobert.wufoo.com/forms/nanyycwm/\">Contact Us &raquo;</a></p>\n  149      </div>\n  150  </div>\n\n11 matches across 6 files\n",
+			"file": "_pages/index/carousel.erb",
 			"settings":
 			{
-				"buffer_size": 5545,
-				"line_ending": "Windows",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "_pages/contact/intro.md",
-			"settings":
-			{
-				"buffer_size": 437,
+				"buffer_size": 1558,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_pages/community/friends.erb",
-			"settings":
-			{
-				"buffer_size": 913,
-				"line_ending": "Unix"
 			}
 		},
 		{
@@ -214,12 +196,14 @@
 	},
 	"file_history":
 	[
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/contact/intro.md",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/community/friends.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/_config.yml",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/faqs.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/intro.md",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/staff.xml",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/index.html",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/contact/intro.md",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/about/index.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/carousel.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/community/main.erb",
@@ -237,7 +221,6 @@
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/contribution-time.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/main.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/maintext.html",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/contribution-financial.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/mainschool.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/education/mainschool-curriculum.html",
@@ -340,8 +323,7 @@
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/admissions/fees/main.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/admissions/intro.md",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/admissions/nav.erb",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/education/nav.erb",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/education/main-school/intro.md"
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_views/education/nav.erb"
 	],
 	"find":
 	{
@@ -375,6 +357,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"png",
 			"Nany",
 			"Nany-y",
 			"nany-y-cwm-school.png",
@@ -501,8 +484,7 @@
 			"begin",
 			"#todo:",
 			"begin",
-			"esist",
-			"assetname"
+			"esist"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -588,348 +570,128 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "_pages/index/carousel.erb",
 					"settings":
 					{
-						"buffer_size": 5545,
+						"buffer_size": 1558,
 						"regions":
 						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										179,
-										189
-									],
-									[
-										420,
-										430
-									],
-									[
-										729,
-										739
-									],
-									[
-										960,
-										970
-									],
-									[
-										1285,
-										1291
-									],
-									[
-										1875,
-										1881
-									],
-									[
-										2274,
-										2278
-									],
-									[
-										2621,
-										2625
-									],
-									[
-										2901,
-										2905
-									],
-									[
-										3056,
-										3060
-									],
-									[
-										3390,
-										3394
-									],
-									[
-										3813,
-										3817
-									],
-									[
-										4508,
-										4512
-									],
-									[
-										4706,
-										4710
-									],
-									[
-										4960,
-										4964
-									],
-									[
-										5114,
-										5118
-									],
-									[
-										5448,
-										5452
-									]
-								],
-								"scope": ""
-							}
 						},
 						"selection":
 						[
 							[
-								2902,
-								2902
+								179,
+								179
 							]
 						],
 						"settings":
 						{
-							"detect_indentation": false,
-							"output_tag": 3,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1584.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_pages/contact/intro.md",
-					"settings":
-					{
-						"buffer_size": 437,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								330,
-								330
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_pages/community/friends.erb",
-					"settings":
-					{
-						"buffer_size": 913,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								209,
-								209
-							]
-						],
-						"settings":
-						{
-							"annotations":
-							[
-								"TODO",
-								"README",
-								"FIXME"
-							],
-							"csslint_options":
-							{
-								"adjoining-classes": "warning",
-								"box-model": true,
-								"box-sizing": "warning",
-								"compatible-vendor-prefixes": "warning",
-								"display-property-grouping": true,
-								"duplicate-background-images": "warning",
-								"duplicate-properties": true,
-								"empty-rules": true,
-								"errors": true,
-								"fallback-colors": "warning",
-								"floats": "warning",
-								"font-faces": "warning",
-								"font-sizes": "warning",
-								"gradients": "warning",
-								"ids": "warning",
-								"import": "warning",
-								"important": "warning",
-								"known-properties": true,
-								"outline-none": "warning",
-								"overqualified-elements": "warning",
-								"qualified-headings": "warning",
-								"regex-selectors": "warning",
-								"rules-count": "warning",
-								"shorthand": "warning",
-								"star-property-hack": "warning",
-								"text-indent": "warning",
-								"underscore-property-hack": "warning",
-								"unique-headings": "warning",
-								"universal-selector": "warning",
-								"vendor-prefix": true,
-								"zero-units": "warning"
-							},
-							"gjslint_ignore":
-							[
-								110
-							],
-							"gjslint_options":
-							[
-							],
-							"javascript_linter": "jshint",
-							"jshint_options":
-							{
-								"browser": true,
-								"evil": true,
-								"regexdash": true,
-								"sub": true,
-								"trailing": true,
-								"wsh": true
-							},
-							"pep8": true,
-							"pep8_ignore":
-							[
-								"E501"
-							],
-							"perl_linter": "perlcritic",
-							"pyflakes_ignore":
-							[
-							],
-							"pyflakes_ignore_import_*": true,
-							"sublimelinter": true,
-							"sublimelinter_delay": 2,
-							"sublimelinter_disable":
-							[
-							],
-							"sublimelinter_executable_map":
-							{
-							},
-							"sublimelinter_fill_outlines": false,
-							"sublimelinter_gutter_marks": true,
-							"sublimelinter_gutter_marks_theme": "simple",
-							"sublimelinter_mark_style": "none",
-							"sublimelinter_notes": false,
-							"sublimelinter_objj_check_ascii": false,
-							"sublimelinter_popup_errors_on_save": false,
-							"sublimelinter_syntax_map":
-							{
-								"C++": "c",
-								"Python Django": "python",
-								"Ruby on Rails": "ruby"
-							},
-							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
 					"file": "_pages/index/main.erb",
 					"settings":
 					{
@@ -940,8 +702,8 @@
 						"selection":
 						[
 							[
-								1453,
-								1453
+								1603,
+								1603
 							]
 						],
 						"settings":
