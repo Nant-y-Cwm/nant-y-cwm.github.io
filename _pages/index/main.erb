@@ -8,12 +8,23 @@ rescue
 end
 %>
 
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1406742256221468";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
 <!-- Three columns of text below the carousel -->
 <div class="row">
 
     <div class="span4"><a href="https://www.facebook.com/NantyCwm.School" target="_blank"><img class="img-circle" src="~/images/home/facebook-badge.png" /></a>
         <h2><a href="https://www.facebook.com/NantyCwm.School" target="_blank">Facebook</a></h2>
         <p>Follow us on facebook for our most recent photos, stories, interesting links, etc.</p>
+        <div style="text-align: center; margin-bottom: 10px;" class="fb-like" data-href="http://www.nant-y-cwm.co.uk/" data-width="200" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div>
         <p><a class="btn" href="https://www.facebook.com/NantyCwm.School" target="_blank">Open Page &raquo;</a></p>
     </div>
     <!-- /.span4 -->
