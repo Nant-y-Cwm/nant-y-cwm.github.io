@@ -2,7 +2,8 @@
 	"folders":
 	[
 		{
-			"path": "/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk"
+			"follow_symlinks": true,
+			"path": "."
 		}
 	]
 }

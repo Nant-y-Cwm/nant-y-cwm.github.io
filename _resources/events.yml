@@ -1,137 +1,5 @@
 ---
 events:
-- id: '1385816104989507'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: Christmas Fair
-  description: ! 'Bring friends and family to share this wonderful celebration!  Visitors
-    can enjoy Arts and Crafts, Gift Marketplace, Cafe, Music, Puppet Play, Gift Raffle,
-    Story Telling...and much more!
-
-
-    Maybe you''d like to have a stall with us this year?  Please contact us for further
-    details:
-
-    Tel : 01437 563640'
-  start_time: '2013-11-30'
-  is_date_only: true
-  location: Clunderwen Community Hall
-  venue:
-    name: Clunderwen Community Hall
-  privacy: OPEN
-  updated_time: '2013-11-12T10:22:54+0000'
-- id: '520117228067388'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: Advent Garden
-  start_time: '2013-12-02'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:49:04+0000'
-- id: '175903482600828'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: St Nicholas
-  start_time: '2013-12-06'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:49:50+0000'
-- id: '665411340160232'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: End of Term Festival - Kindergarten 1
-  start_time: '2013-12-11'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:51:01+0000'
-- id: '600286063364282'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: End of Term Festival - Kindergarten 2
-  start_time: '2013-12-12'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:51:30+0000'
-- id: '204102876436076'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: End of Term Festival - Main School
-  start_time: '2013-12-13'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T12:09:47+0000'
-- id: '489093261203765'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: Christmas Holidays
-  description: ! 'Friday 13th December-
-
-    Tuesday 7th January'
-  start_time: '2013-12-13'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:42:25+0000'
-- id: '1457009647857496'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: Spring Term Start
-  description: ! 'Wednesday 8th January -
-
-    Friday 11th April'
-  start_time: '2014-01-08'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:36:46+0000'
-- id: '1404686173095816'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: Epiphany
-  start_time: '2014-01-09'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:52:35+0000'
 - id: '187996181386150'
   owner:
     category: School
@@ -174,6 +42,19 @@ events:
     name: Nant-y-Cwm Steiner School
   privacy: OPEN
   updated_time: '2013-10-11T11:53:39+0000'
+- id: '188522084665787'
+  owner:
+    category: School
+    name: Nant y Cwm Steiner School
+    id: '124914354200526'
+  name: Open Day
+  start_time: '2014-04-05'
+  is_date_only: true
+  location: Nant-y-Cwm Steiner School
+  venue:
+    name: Nant-y-Cwm Steiner School
+  privacy: OPEN
+  updated_time: '2014-01-26T15:00:30+0000'
 - id: '600438356686197'
   owner:
     category: School
@@ -229,19 +110,6 @@ events:
     name: Nant-y-Cwm Steiner School
   privacy: OPEN
   updated_time: '2013-10-11T11:39:30+0000'
-- id: '188522084665787'
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  name: Open Day
-  start_time: '2014-05-17'
-  is_date_only: true
-  location: Nant-y-Cwm Steiner School
-  venue:
-    name: Nant-y-Cwm Steiner School
-  privacy: OPEN
-  updated_time: '2013-10-11T11:56:05+0000'
 - id: '592794704100666'
   owner:
     category: School

@@ -33,7 +33,7 @@ end
       <h2><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">Next Event</a></h2>
         <p><strong><%= ScmsUtils.txt_2_html(nextevent["name"]) %></strong> : <%= ScmsUtils.txt_2_html(nextevent["description"]) %></p>
         <p><%= Date.parse(nextevent["start_time"]).strftime("%d/%m/%Y") %></p>
-        <p><a class="btn" href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">View details &raquo;</a></p>
+        <p><a class="btn" href="~/community/#calendar">View calendar &raquo;</a></p>
     </div>
     <!-- /.span4 -->
     
@@ -48,7 +48,7 @@ end
 <!-- Start THE FEATURETTES -->
 <hr class="featurette-divider" />
 <div class="featurette">
-    <%= Scms.renderView("_pages/index/maintext.html", page) %>
+    <%= Scms.renderView("_pages/index/maintext.erb", page) %>
 </div>
 
 <hr class="featurette-divider" />

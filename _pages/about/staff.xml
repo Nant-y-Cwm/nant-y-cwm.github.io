@@ -3,7 +3,7 @@
 <boxes>
 	<box name="John Davis" img="~/images/staff/260/john-davis.jpg">
 		<![CDATA[
-		<p>Class Teacher &nbsp;-John Davis: Steiner Waldorf Teaching Diploma and &nbsp;Bsc Environmental Science.John joined us officially in 2008 but has been involved as a volunteer at the School since his children started at Nant Y Cwm in 2006. Previously John worked as a tutor and project manager from Greenlinks Community Group and as a Countryside Education Warden. His enthusiam for teaching and children led him to take on Class Teaching alongside the Steiner Teacher Training in January 2009, he has now qualified with Steiner Waldorf Teaching Diploma. &nbsp;John also takes Games and modelling classes.</p>
+		<p>Class Teacher - John Davis: Steiner Waldorf Teaching Diploma and &nbsp;Bsc Environmental Science.John joined us officially in 2008 but has been involved as a volunteer at the School since his children started at Nant Y Cwm in 2006. Previously John worked as a tutor and project manager from Greenlinks Community Group and as a Countryside Education Warden. His enthusiam for teaching and children led him to take on Class Teaching alongside the Steiner Teacher Training in January 2009, he has now qualified with Steiner Waldorf Teaching Diploma. &nbsp;John also takes Games and modelling classes.</p>
 		]]>
 	</box>
 	<box name="Jane Winters" img="~/images/staff/260/jane-winters.png">
@@ -11,15 +11,14 @@
 		<p>Class Teacher and Handwork - Jane Winters: BSc. (Geography), LWTTS, Jane was born in New Moat a few miles from Nant-y-Cwm. Jane sent her eldest son to the first Kindergarten when the school opened in 1979 and has been a mainstay of the School ever since. &nbsp;A qualified Steiner Teacher, Jane has retired from class teaching and now teaches handwork.</p>
 		]]>
 	</box>
+	<box name="Tom Blackwell" img="~/images/staff/260/tom-blackwell.png">
+		<![CDATA[
+		<p>Class Teacher - Tom has a degree in Religious and Theological Studies from Cardiff University (2002-05) and trained as a Steiner teacher on WESTT course between 2010 and 2012; his decision came after a long time (over 10 years) of wanting to be a teacher but not yet coming across a system of education that resonated with him - until Steiner Waldorf!  Tom is married with a two year old son who attends Parent and Toddler and another child on the way. His personal interests are nice walks, nice cafes and reading about religion and history.</p>
+		]]>
+	</box>
 	<box name="Lucy Infray" img="~/images/staff/260/lucy-infray.jpg">
 		<![CDATA[
 		<p>Class Teacher, French &amp; singing - Lucy Infray: Lucy grew up in France and was educated at a Steiner School there. She moved to Wales in 2005 and began working at Nant-y-Cwm as a Kindergarten Assistant. In 2007 Lucy moved to the Main School to teach and began the part-time Waldorf Teacher Training Course. Lucy is currently our French Teacher and takes lessons with all the classes.</p>
-		]]>
-	</box>
-
-	<box name="Tom Blackwell" img="~/images/staff/260/tom-blackwell.png">
-		<![CDATA[
-		<p></p>
 		]]>
 	</box>
 	<box name="Richard Braithwaite" img="~/images/staff/260/richard-braithwaite.png">
@@ -27,17 +26,12 @@
 		<p>Music - Richard Braithwaite (BA Hons - Music Education). Richard has been at Nant-y-Cwm since 2010, and has been teaching music to all the classes since then. He enjoys teaching a diverse range of musical activities; from singing and recorders to Brazilian percussion, plus tuition on the guitar and violin. He also arranges music for the children to perform at the festivals, ensuring that all the musical talent in the school (and there is a lot!) is properly nurtured.</p>
 		]]>
 	</box>
-	<box name="Dani Snelle" img="~/holder.js/300x200">
+	<box name="Daniel Davies" img="~/images/staff/260/daniel-davies.jpg">
 		<![CDATA[
-		<p></p>
+		<p>Class Teacher, Welsh & Music - Daniel is a graduate of the Guildhall School of Music and Drama and is a Qualified Steiner Waldorf teacher, before working in Nant Y Cwm he was Head of Music at the Steiner Academy in Hereford and previously a Music teacher at St Michael's Steiner school in London. Out of school Daniel continues to work as a Cellist in Early Music and is also an experienced horseman.</p>
 		]]>
 	</box>
 
-	<box name="Niki Hurst" img="~/holder.js/300x200">
-		<![CDATA[
-		<p>Kindergarten Assistant - Niki Hurst: Niki has completed an NVQ level 4 in Steiner Early Years Education, and also has BSc Social Sciences; PGCE. Niki joined us as the Kindergarten Assistant in 2007. She is very experienced with children of all ages and has previously worked with learning support groups.</p>
-		]]>
-	</box>
 	<box name="Janet Brackenbury" img="~/images/staff/260/janet-brackenbury.jpg">
 		<![CDATA[
 		<p>Kindergarten - Janet Brackenbury: FdA. Steiner Waldorf Early Childhood Education; BD Hons; &nbsp;PGCE (3-13yrs). &nbsp;Janet worked in State Education for 8 years and was involved in the promotion of extending play based education into Key Stage 1. In 2004 she started The Gower Steiner Waldorf Initiative with a Parent and Child Plus group and ran the Gower Kindergarten in 2006/7. &nbsp;Janet moved with her family to Carmarthenshire in 2007 to access Steiner Education for all their children. Janet comes from East London, she has lived in Wales for over 20 years and has a GCSE in Users Welsh, Defnyddio&rsquo;r Gymreig.</p>
@@ -45,26 +39,35 @@
 	</box>
 	<box name="Cree Smith" img="~/images/staff/260/cree-smith.png">
 		<![CDATA[
-		<p>Kindergarten &ndash; Cree Smith: Cree previously ran a parent and child group in Thornbury, Bristol and has worked at St. Christophers with children with learning difficulties. She completed the course &ldquo;Education for a Happy Childhood&rdquo; with Joy de Berker. As well as working in the kindergarten, she enjoys raising her young family and working on their farm.</p>
+		<p>Kindergarten - Cree Smith: Cree previously ran a parent and child group in Thornbury, Bristol and has worked at St. Christophers with children with learning difficulties. She completed the course &ldquo;Education for a Happy Childhood&rdquo; with Joy de Berker. As well as working in the kindergarten, she enjoys raising her young family and working on their farm.</p>
 		]]>
 	</box>
-
 	<box name="Debs Wasson" img="~/images/staff/260/debs-wasson.jpg">
 		<![CDATA[
 		<p>Debbie Wasson - Family Group Co-ordinator. Debbie joined the Early Years Team and took on holding the Family Group sessions in 2013. She had previous experience of running Family group sessions in Cornwall before moving to Wales with her family, and she enjoyed the Education for Early Childhood course by Joy de Berker. Her 2 girls attend Nant-y-Cwm.</p>
 		]]>
 	</box>
 
-	
-
 	<box name="Victoria Robinson" img="~/images/staff/260/victoria-robinson.png">
 		<![CDATA[
-		<p>Reception/ Administration - &nbsp;Victoria Robinson</p>
+		<p>Victoria Robinson - Reception/ Administration. Victoria has previously worked for the NHS in a middle managerial role in the Path Lab, and applies her working experience of administration to her role at NYC. She has an MSc in Biomedical Science. Victoria enjoys working with people offering a friendly introduction to the school and is always willing to help. Victoria works 3 days a week in the school office and has 2 children at the school, she also has her own Sound business</p>
+		]]>
+	</box>
+
+
+	<box name="Niki Hurst" img="~/holder.js/300x200">
+		<![CDATA[
+		<p>Kindergarten Assistant - Niki Hurst: Niki has completed an NVQ level 4 in Steiner Early Years Education, and also has BSc Social Sciences; PGCE. Niki joined us as the Kindergarten Assistant in 2007. She is very experienced with children of all ages and has previously worked with learning support groups.</p>
 		]]>
 	</box>
 	<box name="Clare Griffiths" img="~/holder.js/300x200">
 		<![CDATA[
 		<p>Clare Griffiths AICB.P.Dip, Financial Administrator - Clare moved to Wales 10 years ago from the South East of England. Lives in near by Crymych , mother of two children aged 2 and 5.  More commonly know as Clare Siop Clare as has run said shop in Crymych for 10 years.</p>
+		]]>
+	</box>
+	<box name="Dani Snelle" img="~/holder.js/300x200">
+		<![CDATA[
+		<p></p>
 		]]>
 	</box>
 </boxes>
