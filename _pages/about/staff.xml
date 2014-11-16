@@ -21,16 +21,17 @@
 		<p>Class Teacher, French &amp; singing - Lucy Infray: Lucy grew up in France and was educated at a Steiner School there. She moved to Wales in 2005 and began working at Nant-y-Cwm as a Kindergarten Assistant. In 2007 Lucy moved to the Main School to teach and began the part-time Waldorf Teacher Training Course. Lucy is currently our French Teacher and takes lessons with all the classes.</p>
 		]]>
 	</box>
-	<box name="Richard Braithwaite" img="~/images/staff/260/richard-braithwaite.png">
-		<![CDATA[
-		<p>Music - Richard Braithwaite (BA Hons - Music Education). Richard has been at Nant-y-Cwm since 2010, and has been teaching music to all the classes since then. He enjoys teaching a diverse range of musical activities; from singing and recorders to Brazilian percussion, plus tuition on the guitar and violin. He also arranges music for the children to perform at the festivals, ensuring that all the musical talent in the school (and there is a lot!) is properly nurtured.</p>
-		]]>
-	</box>
 	<box name="Daniel Davies" img="~/images/staff/260/daniel-davies.jpg">
 		<![CDATA[
-		<p>Class Teacher, Welsh & Music - Daniel is a graduate of the Guildhall School of Music and Drama and is a Qualified Steiner Waldorf teacher, before working in Nant Y Cwm he was Head of Music at the Steiner Academy in Hereford and previously a Music teacher at St Michael's Steiner school in London. Out of school Daniel continues to work as a Cellist in Early Music and is also an experienced horseman.</p>
+		<p>Class Teacher & Welsh - Daniel was born and grew up in Pembrokeshire and is a native Welsh speaker. His is an experienced teacher having taught in special, state and Waldorf education. He is a Qualified Steiner Waldorf teacher.</p>
 		]]>
 	</box>
+	<box name="Victoria Robinson" img="~/images/staff/260/victoria-robinson.png">
+		<![CDATA[
+		<p>Victoria Robinson - Music.  Vee plays a variety of wind instruments and percussion and has been trained in Sound with the College of Sound Healing. She has her own business and has previously worked in schools teaching children singing and music by ear. She has also composed and performed music and songs in storytelling productions. She has recently been appointed as the music teacher and looks forward to working with the teachers and the children at NYC in the delivering music lessons in keeping with the curriculum.</p>
+		]]>
+	</box>
+	
 
 	<box name="Janet Brackenbury" img="~/images/staff/260/janet-brackenbury.jpg">
 		<![CDATA[
@@ -48,11 +49,7 @@
 		]]>
 	</box>
 
-	<box name="Victoria Robinson" img="~/images/staff/260/victoria-robinson.png">
-		<![CDATA[
-		<p>Victoria Robinson - Reception/ Administration. Victoria has previously worked for the NHS in a middle managerial role in the Path Lab, and applies her working experience of administration to her role at NYC. She has an MSc in Biomedical Science. Victoria enjoys working with people offering a friendly introduction to the school and is always willing to help. Victoria works 3 days a week in the school office and has 2 children at the school, she also has her own Sound business</p>
-		]]>
-	</box>
+
 
 
 	<box name="Niki Hurst" img="~/holder.js/300x200">
@@ -62,12 +59,13 @@
 	</box>
 	<box name="Clare Griffiths" img="~/holder.js/300x200">
 		<![CDATA[
-		<p>Clare Griffiths AICB.P.Dip, Financial Administrator - Clare moved to Wales 10 years ago from the South East of England. Lives in near by Crymych , mother of two children aged 2 and 5.  More commonly know as Clare Siop Clare as has run said shop in Crymych for 10 years.</p>
+		<p>Clare Griffiths AICB.P.Dip, Financial Administrator - Clare moved to Wales 10 years ago from the South East of England. Lives in near by Crymych , mother of two children aged 2 and 5.  Clare as has run said shop in Crymych for 10 years.</p>
 		]]>
 	</box>
-	<box name="Dani Snelle" img="~/holder.js/300x200">
+
+	<box name="Victoria Robinson" img="~/images/staff/260/victoria-robinson.png">
 		<![CDATA[
-		<p></p>
+		<p>Victoria Robinson - Reception/ Administration. Victoria has previously worked for the NHS in a middle managerial role in the Path Lab, and applies her working experience of administration to her role at NYC. She has an MSc in Biomedical Science. Victoria enjoys working with people offering a friendly introduction to the school and is always willing to help. Victoria works 3 days a week in the school office and has 2 children at the school, she also has her own Sound business</p>
 		]]>
 	</box>
 </boxes>

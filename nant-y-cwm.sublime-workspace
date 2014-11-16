@@ -8,27 +8,11 @@
 	"buffers":
 	[
 		{
-			"file": "_pages/admissions/info-kindergarten.html",
+			"file": "nant-y-cwm.sublime-project",
 			"settings":
 			{
-				"buffer_size": 759,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_pages/index/maintext.erb",
-			"settings":
-			{
-				"buffer_size": 1036,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_pages/index/main.erb",
-			"settings":
-			{
-				"buffer_size": 2806,
-				"line_ending": "Unix"
+				"buffer_size": 73,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -57,8 +41,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about"
+	],
 	"file_history":
 	[
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/info-kindergarten.html",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/maintext.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/staff.xml",
 		"/C/Users/Cookie/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/terms2013.txt",
 		"/C/Users/Cookie/Documents/GitHub/Static-CMS/scms.gemspec",
 		"/C/Users/Cookie/Documents/GitHub/Static-CMS/_layouts/hero.html",
@@ -92,7 +85,7 @@
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 34.0
 	},
 	"find_in_files":
 	{
@@ -132,94 +125,35 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_pages/admissions/info-kindergarten.html",
-					"semi_transient": false,
+					"file": "nant-y-cwm.sublime-project",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 759,
+						"buffer_size": 73,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								759,
-								759
+								73,
+								73
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_pages/index/maintext.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1036,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								340,
-								340
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_pages/index/main.erb",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2806,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2752,
-								2752
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 399.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -281,7 +215,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\Cookie\\Documents\\GitHub\\Static-CMS\\scms.sublime-project"
+				"C:\\Users\\cprobert\\Dropbox\\Code\\qsonic.qsonic\\qsonic.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -294,6 +228,7 @@
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
