@@ -1,3 +1,5 @@
+<%= Scms.renderView("_pages/index/includes/special.erb", page) %>
+
 <%
 require 'date'
 begin
@@ -48,7 +50,7 @@ end
 <!-- Start THE FEATURETTES -->
 <hr class="featurette-divider" />
 <div class="featurette">
-    <%= Scms.renderView("_pages/index/maintext.erb", page) %>
+    <%= Scms.renderView("_pages/index/includes/terms.erb", page) %>
 </div>
 
 <hr class="featurette-divider" />

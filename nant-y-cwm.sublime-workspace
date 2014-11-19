@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "nant-y-cwm.sublime-project",
-			"settings":
-			{
-				"buffer_size": 73,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -44,13 +36,19 @@
 	"expanded_folders":
 	[
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about"
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_layouts",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/includes"
 	],
 	"file_history":
 	[
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/info-kindergarten.html",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/includes/special.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/maintext.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/special.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/terms.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/admissions/info-kindergarten.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/about/staff.xml",
 		"/C/Users/Cookie/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/terms2013.txt",
 		"/C/Users/Cookie/Documents/GitHub/Static-CMS/scms.gemspec",
@@ -100,6 +98,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"</li>",
+			"<li>",
+			"/p>",
+			"<p",
+			"p",
 			"Glynn",
 			"S3Deploy",
 			".encode('UTF-8'",
@@ -115,6 +118,11 @@
 		"regex": false,
 		"replace_history":
 		[
+			"</a></li>",
+			"<li><a href=\"#\">",
+			"/li>",
+			"<li",
+			"li"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -125,37 +133,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "nant-y-cwm.sublime-project",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 73,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								73,
-								73
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -197,7 +176,7 @@
 	"project": "nant-y-cwm.sublime-project",
 	"replace":
 	{
-		"height": 50.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
