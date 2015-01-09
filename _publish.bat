@@ -12,3 +12,4 @@ echo Getting latest code
 
 echo Deploying
 scms --publish > .\last-deploy.log
+type .\last-deploy.log
