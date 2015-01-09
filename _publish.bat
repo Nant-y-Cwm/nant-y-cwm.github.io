@@ -13,3 +13,6 @@ echo Getting latest code
 echo Deploying
 scms --publish > .\last-deploy.log
 type .\last-deploy.log
+
+cheo Cleaning up
+git clean -fdx
