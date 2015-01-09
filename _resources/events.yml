@@ -1,19 +1,5 @@
 ---
 events:
-- is_date_only: false
-  location: Llanycefn, SA66 7QJ Clunderwen
-  name: Spring Term - Back to School
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  privacy: OPEN
-  start_time: '2015-01-08T08:50:00+0000'
-  timezone: Europe/London
-  updated_time: '2015-01-05T11:44:50+0000'
-  venue:
-    name: Llanycefn, SA66 7QJ Clunderwen
-  id: '1515985625342966'
 - description: Come along and help keep our school looking lovely!
   is_date_only: true
   location: Llanycefn, SA66 7QJ Clunderwen

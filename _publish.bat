@@ -1,6 +1,6 @@
 @echo off
 cd /d %0\.. 
-
-scms --publish
-start http://www.nant-y-cwm.co.uk/
-pause
+git pull origin
+scms --publish > .\last-deploy.log
+::start http://www.nant-y-cwm.co.uk/
+::pause
