@@ -12,7 +12,7 @@ echo Getting latest code
 
 echo Deploying
 @call scms --publish > .\last-deploy.log
-type .\last-deploy.log
+@call type .\last-deploy.log
 
-cheo Cleaning up
+echo Cleaning up
 git clean -fdx
