@@ -11,7 +11,7 @@ echo Getting latest code
 @call git pull origin
 
 echo Deploying
-scms --publish > .\last-deploy.log
+@call scms --publish > .\last-deploy.log
 type .\last-deploy.log
 
 cheo Cleaning up
