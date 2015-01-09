@@ -3,3 +3,9 @@ nant-y-cwm.sublime-workspace
 scripts/air-monkey-hook.js
 _s3config.yml
 _build.log
+
+css/*.gz.css
+css/*.css
+
+scripts/*.gz.js
+scripts/*.js
