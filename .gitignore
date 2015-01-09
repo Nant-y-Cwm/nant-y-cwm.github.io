@@ -9,3 +9,15 @@ css/*.css
 
 scripts/*.gz.js
 scripts/*.js
+
+about/*
+admissions/*
+community/*
+contact/*
+education/*
+terms/*
+vacancies/*
+
+index.html
+archive.html
+includes.html
