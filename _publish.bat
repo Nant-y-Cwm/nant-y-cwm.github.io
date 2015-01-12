@@ -14,5 +14,5 @@ echo Deploying
 scms --publish --config ../config/ > .\last-deploy.log
 @call type .\last-deploy.log
 
-::echo Cleaning up
-::git clean -fdx
+echo Cleaning up
+git clean -fdx
