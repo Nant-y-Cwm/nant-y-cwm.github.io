@@ -43,9 +43,11 @@
 	],
 	"file_history":
 	[
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/includes/terms.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_config.yml",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/community/work-days.html",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_develop.bat",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/includes/special.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/maintext.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/special.erb",
@@ -196,7 +198,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\cprobert\\Dropbox\\Code\\qsonic.qsonic\\qsonic.sublime-project"
+				"C:\\Users\\cprobert\\Documents\\Code\\qsonic.qsonic\\qsonic.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -217,7 +219,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 238.0,
+	"side_bar_width": 275.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
