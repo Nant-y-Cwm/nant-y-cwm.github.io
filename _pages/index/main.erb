@@ -1,3 +1,12 @@
+<div class="row" style="margin-bottom: 25px;">
+  <div class="span12">
+    <div class="alert alert-success">
+      <h4>Snow day</h4>
+      <p>Due to the weather conditions the school wil be closed today.</p>
+    </div>
+  </div>
+</div>
+
 <%
 require 'date'
 begin
@@ -9,14 +18,15 @@ end
 %>
 
 <div id="fb-root"></div>
-<script>(function(d, s, id) {
+<script>
+(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
   js = d.createElement(s); js.id = id;
   js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=1406742256221468";
   fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
+}(document, 'script', 'facebook-jssdk'));
+</script>
 
 <!-- Three columns of text below the carousel -->
 <div class="row">
@@ -29,7 +39,7 @@ end
     </div>
     <!-- /.span4 -->
     
-    <div class="span4"><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb"><img class="img-circle" src="~/images/home/nant-y-cwm-badge.png" /></a>
+    <div class="span4"><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb"><img class="img-circle" src="~/images/home/cal-badge.png" /></a>
       <h2><a href="https://www.facebook.com/events/<%=nextevent["id"] %>/" target="fb">Next Event</a></h2>
         <p><strong><%= ScmsUtils.txt_2_html(nextevent["name"]) %></strong> : <%= ScmsUtils.txt_2_html(nextevent["description"]) %></p>
         <p><%= Date.parse(nextevent["start_time"]).strftime("%d/%m/%Y") %></p>
@@ -37,11 +47,18 @@ end
     </div>
     <!-- /.span4 -->
     
-    <div class="span4"><a class="sendmail" href="http://cprobert.wufoo.com/forms/nantycwm/"><img class="img-circle" src="~/images/home/email-badge.png" /></a>
+    <div class="span4"><a class="" href="~/downloads/jobs/2015-01-advert-class-teacher.doc" target="_blank"><img class="img-circle" src="~/images/home/nant-y-cwm-badge.png" /></a>
+        <h2><a class="sendmail" href="http://cprobert.wufoo.com/forms/nantycwm/">Teaching Position</a></h2>
+        <p>Are you are interested in teaching at Nant-y-Cwm Steiner School?  We're currently looking for a part-time class teacher.</p>
+        <p><a class="btn" href="~/downloads/jobs/2015-01-advert-class-teacher.doc" target="_blank">Find out more &raquo;</a></p>
+    </div>
+
+<!--     <div class="span4"><a class="sendmail" href="http://cprobert.wufoo.com/forms/nantycwm/"><img class="img-circle" src="~/images/home/email-badge.png" /></a>
         <h2><a class="sendmail" href="http://cprobert.wufoo.com/forms/nantycwm/">Contact Us</a></h2>
         <p>If you are interested in a Steiner education for your child, would like more information about anything that you have read, or you are interested in coming for a visit, we would love to hear from you!</p>
         <p><a class="btn sendmail" href="http://cprobert.wufoo.com/forms/nantycwm/">Contact Us &raquo;</a></p>
-    </div>
+    </div> -->
+
 </div>
 <!-- /.row -->
 

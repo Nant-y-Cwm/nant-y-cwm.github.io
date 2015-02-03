@@ -9,34 +9,6 @@ events:
     name: Nant y Cwm Steiner School
     id: '124914354200526'
   privacy: OPEN
-  start_time: '2015-01-10'
-  updated_time: '2015-01-05T11:48:37+0000'
-  venue:
-    name: Llanycefn, SA66 7QJ Clunderwen
-  id: '1559484040935672'
-- description: Half Term Holiday 16th - 20th February
-  is_date_only: true
-  location: Llanycefn, SA66 7QJ Clunderwen
-  name: Half Term
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  privacy: OPEN
-  start_time: '2015-01-16'
-  updated_time: '2015-01-05T11:46:46+0000'
-  venue:
-    name: Llanycefn, SA66 7QJ Clunderwen
-  id: '776555942382168'
-- description: Come along and help keep our school looking lovely!
-  is_date_only: true
-  location: Llanycefn, SA66 7QJ Clunderwen
-  name: Work Day!
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  privacy: OPEN
   start_time: '2015-02-14'
   updated_time: '2015-01-05T11:49:21+0000'
   venue:
