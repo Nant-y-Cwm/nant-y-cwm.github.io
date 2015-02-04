@@ -36,14 +36,15 @@
 	"expanded_folders":
 	[
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_layouts",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_modules",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/includes"
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index"
 	],
 	"file_history":
 	[
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_bootstrap.rb",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_modules/FBEvents.rb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/includes/terms.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_config.yml",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/community/work-days.html",
