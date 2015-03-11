@@ -1,16 +1,2 @@
 ---
-events:
-- description: Come along and help keep our school looking lovely!
-  is_date_only: true
-  location: Llanycefn, SA66 7QJ Clunderwen
-  name: Work Day!
-  owner:
-    category: School
-    name: Nant y Cwm Steiner School
-    id: '124914354200526'
-  privacy: OPEN
-  start_time: '2015-02-14'
-  updated_time: '2015-01-05T11:49:21+0000'
-  venue:
-    name: Llanycefn, SA66 7QJ Clunderwen
-  id: '1581689732067679'
+events: []
