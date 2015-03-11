@@ -8,10 +8,10 @@
 	"buffers":
 	[
 		{
-			"file": "_pages/index/includes/terms.erb",
+			"file": "_pages/index/includes/_config.yml",
 			"settings":
 			{
-				"buffer_size": 1328,
+				"buffer_size": 15,
 				"line_ending": "Windows"
 			}
 		}
@@ -19,11 +19,11 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
 		],
-		"width": 0.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -152,29 +152,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "_pages/index/includes/terms.erb",
-					"semi_transient": false,
+					"file": "_pages/index/includes/_config.yml",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1328,
+						"buffer_size": 15,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								44,
-								44
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"bs_sintax": "html (rails)",
-							"buffer_scroll_name": "e1727c73",
-							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
-							"spell_check": false,
-							"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
-							"translate_tabs_to_spaces": false
+							"buffer_scroll_name": "c829d2e8",
+							"syntax": "Packages/YAML/YAML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
