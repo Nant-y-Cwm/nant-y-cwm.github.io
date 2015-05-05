@@ -1,2 +1,36 @@
 ---
-events: []
+events:
+- is_date_only: true
+  location: Llanycefn, SA66 7QJ Clunderwen
+  name: Nant-y-Cwm Steiner School Open Day 2015
+  owner:
+    category: School
+    name: Nant y Cwm Steiner School
+    id: '124914354200526'
+  privacy: OPEN
+  start_time: '2015-06-13'
+  updated_time: '2015-04-30T19:06:40+0000'
+  venue:
+    name: Llanycefn, SA66 7QJ Clunderwen
+  id: '476052482553147'
+- description: ! "What are the fundamental elements of childhood, and what do children
+    truly need to flourish?  Lou will explore ideas to build greater connection, communication
+    and creativity into family life; to create happy children, happy homes; plus,
+    practical and fun suggestions for making ordinary family moments extraordinary.
+    \nLou will discuss how to transform behaviours in a positive manner, create more
+    relaxed and connected relationships, and teach children skills that will help
+    them throughout their lives.  Popular Creative Discipline ideas shared to end.\n\nTickets
+    £5 for individuals and couples"
+  is_date_only: true
+  location: Nant-y-Cwm Steienr School, Llanycefn, SA66 7QJ Clunderwen
+  name: Talk Happy Child Happy Home
+  owner:
+    category: School
+    name: Nant y Cwm Steiner School
+    id: '124914354200526'
+  privacy: OPEN
+  start_time: '2015-06-18'
+  updated_time: '2015-05-02T20:09:29+0000'
+  venue:
+    name: Nant-y-Cwm Steienr School, Llanycefn, SA66 7QJ Clunderwen
+  id: '696011990508853'
