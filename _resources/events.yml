@@ -21,7 +21,8 @@ events:
     relaxed and connected relationships, and teach children skills that will help
     them throughout their lives.  Popular Creative Discipline ideas shared to end.\n\nTickets
     £5 for individuals and couples"
-  is_date_only: true
+  end_time: '2015-06-18T20:30:00+0100'
+  is_date_only: false
   location: Nant-y-Cwm Steienr School, Llanycefn, SA66 7QJ Clunderwen
   name: Talk Happy Child Happy Home
   owner:
@@ -29,8 +30,9 @@ events:
     name: Nant y Cwm Steiner School
     id: '124914354200526'
   privacy: OPEN
-  start_time: '2015-06-18'
-  updated_time: '2015-05-02T20:09:29+0000'
+  start_time: '2015-06-18T19:00:00+0100'
+  timezone: Europe/London
+  updated_time: '2015-05-29T07:46:01+0000'
   venue:
     name: Nant-y-Cwm Steienr School, Llanycefn, SA66 7QJ Clunderwen
   id: '696011990508853'
