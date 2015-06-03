@@ -40,14 +40,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk"
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages",
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index"
 	],
 	"file_history":
 	[
+		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_layouts/layout.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_s3config.yml",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/.gitignore",
-		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/main.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_pages/index/includes/terms.erb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_bootstrap.rb",
 		"/C/Users/cprobert/Dropbox/Shares/Nant-y-cwm/nant-y-cwm.co.uk/_modules/FBEvents.rb",
@@ -212,7 +213,7 @@
 		[
 			[
 				"",
-				"C:\\Users\\cprobert\\Documents\\GitHub\\Static-CMS\\scms.sublime-project"
+				"C:\\Users\\cprobert\\Documents\\Code\\qsonic.qsonic\\qsonic.sublime-project"
 			]
 		],
 		"width": 380.0
